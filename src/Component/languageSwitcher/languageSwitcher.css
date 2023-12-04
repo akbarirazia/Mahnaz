@@ -1,0 +1,38 @@
+.container{
+    margin-top: 0px;
+    text-align: right;
+   
+}
+.btn-btn{
+    margin-right: -10rem;
+    
+}
+button{
+    border: 1px solid white;
+    margin: 1px;
+float: right;
+}
+.selected{
+    border: 1px solid #12f7ff;
+    
+}
+
+.selected {
+    background-color: #000;
+   
+}
+.languageChanger{
+    padding: 0.3rem;
+    border-radius: 0.4rem;
+}
+
+#light button{
+        color: white;
+        border: 1px solid white;
+        margin: 1px;
+   color: white;
+   border-radius: 0.4rem;
+   cursor: pointer;
+   background-color: #12f7ff10;
+    float: right;
+ }
