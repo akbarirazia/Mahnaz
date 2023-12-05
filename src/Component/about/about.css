@@ -98,6 +98,9 @@
   .about__content p {
     margin: 1rem 0 1.5rem;
   }
+  .about__content {
+    margin: 0 !important;
+  }
 }
 
 /* =================== MEDIA QUERIES (SMALL DEVICES) ==================== */
@@ -123,6 +126,7 @@
   .about__content {
     text-align: center;
     /* margin-right: 5rem; */
+    width: 80%;
   }
   .about__content p {
     margin: 1.5rem 0;
